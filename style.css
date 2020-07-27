@@ -95,10 +95,7 @@ li {
     outline: none;
     font-size: 18px;
     color: #24dbcc;
- 
-    margin-left: 70px;
-    margin-right: 5px;
-    
+    float:right;
     
 }
 li{
@@ -132,7 +129,7 @@ ul {
     border: none;
     outline: none;
     font-size: 18px;
-   
+   float:right;
     color: rgb(36, 219, 204);
    
  
